@@ -1,3 +1,5 @@
+package ru.bevz;
+
 import org.junit.Assert;
 import org.junit.Test;
 import ru.bevz.Solution;
